@@ -23,13 +23,13 @@ public:
             for(int i=0;i<n;i++){
                 TreeNode* node=que.front();
                 que.pop();
-                if(!isZig) level[i]=node->val;
-                else level[n-1-i]=node->val;
+
+                int index=isZig?(n-1-i):i;
+                level[index]=node->val;
                 if(node->left!=nullptr) que.push(node->left);
                 if(node->right!=nullptr) que.push(node->right);
             }
-            if(!isZig) isZig=true;
-            else isZig=false;
+            isZig=!isZig;
             res.push_back(level);
         }
         return res;
