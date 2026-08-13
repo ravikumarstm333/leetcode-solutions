@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## String Matching
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Hash Function
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
