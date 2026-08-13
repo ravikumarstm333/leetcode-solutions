@@ -11,17 +11,25 @@
  */
 class Solution {
 public:
-    int heightOfTrr(TreeNode* root){
+    int heightOfTrr(TreeNode* root,int &maxi){
         if(root==nullptr) return 0;
-        return 1+max(heightOfTrr(root->left),heightOfTrr(root->right));
+        int leftheight=heightOfTrr(root->left,maxi);
+        int rightheight=heightOfTrr(root->right,maxi);
+        maxi=max(maxi,leftheight+rightheight);
+        return 1+max(leftheight,rightheight);
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==nullptr) return 0;
-        int curHeight=heightOfTrr(root->left)+heightOfTrr(root->right);
-        int dimel=diameterOfBinaryTree(root->left);
-        curHeight=max(dimel,curHeight);
-        int dimer=diameterOfBinaryTree(root->right);
-        curHeight=max(curHeight,dimer);
-        return curHeight;
+        // int curHeight=heightOfTrr(root->left)+heightOfTrr(root->right);
+        // int dimel=diameterOfBinaryTree(root->left);
+        // curHeight=max(dimel,curHeight);
+        // int dimer=diameterOfBinaryTree(root->right);
+        // curHeight=max(curHeight,dimer);
+        // return curHeight;
+
+        int maaxi=0;
+        // o(n)
+        int a=heightOfTrr(root,maaxi);
+        return maaxi;
     }
 };
