@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0572-subtree-of-another-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
