@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0572-subtree-of-another-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2129-capitalize-the-title](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2390-removing-stars-from-a-string](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
