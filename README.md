@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [4020-elevator-requests-i](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3174-clear-digits) |
+| [4020-elevator-requests-i](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Monotonic Stack
 |  |
 | ------- |
