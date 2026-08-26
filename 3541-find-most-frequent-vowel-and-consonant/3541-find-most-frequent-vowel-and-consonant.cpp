@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxFreqSum(string s) {
-        int arr[26]={0};
+        int* arr=new int[26]();
         int vowelmax=0;
         int con=0;
         for(int i=0;i<s.length();i++){
@@ -11,6 +11,7 @@ public:
             }
             else if(arr[s[i]-'a']>con) con=arr[s[i]-'a'];
         }
+        delete[] arr;
         return vowelmax+con;
     }
 };
