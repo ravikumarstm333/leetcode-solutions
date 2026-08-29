@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3894-traffic-signal-color](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2057-smallest-index-with-equal-value](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2788-split-strings-by-separator](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
