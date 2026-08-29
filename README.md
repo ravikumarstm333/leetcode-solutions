@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
