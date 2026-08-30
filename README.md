@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2057-smallest-index-with-equal-value](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2788-split-strings-by-separator](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Stack
 |  |
 | ------- |
