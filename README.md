@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+| [3903-smallest-stable-index-i](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [4020-elevator-requests-i](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -311,4 +312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+| [3903-smallest-stable-index-i](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
