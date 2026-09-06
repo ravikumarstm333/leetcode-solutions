@@ -1,19 +1,15 @@
 class Solution {
 public:
     bool chelFirstAndLast(long long num,int x){
-        // if(num==x) return true;
-        // if(x!=num%10)return false;
-        // while(num>0){
-        //     int d=num%10;
-        //     num/=10;
-        //     if(num==x){
-        //         return true;
-        //     }
-        // }
-        // return false;
-        int last=num%10;
-        int first=num/pow(10,(int)log10(num));
-        if(x==last && first==x) return true;
+        if(num==x) return true;
+        if(x!=num%10)return false;
+        while(num>0){
+            int d=num%10;
+            num/=10;
+            if(num==x){
+                return true;
+            }
+        }
         return false;
 
 
