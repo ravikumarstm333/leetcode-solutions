@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Tree
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Stack
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Simulation
 |  |
 | ------- |
