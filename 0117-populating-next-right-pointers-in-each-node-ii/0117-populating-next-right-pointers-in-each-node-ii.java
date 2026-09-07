@@ -29,14 +29,10 @@ class Solution {
         while(!q.isEmpty()){
             int n=q.size();
             Node pre=null;
-            boolean st=true;
             for(int i=0;i<n;i++){
                 Node curr=q.peek();
                 q.remove();
-                if(st){
-                    pre=curr;
-                    st=false;
-                }
+                if(pre==null) pre=curr;
                 else{
                     pre.next=curr;
                     pre=curr;
