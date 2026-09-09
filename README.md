@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Queue
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3903-smallest-stable-index-i](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
