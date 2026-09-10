@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2788-split-strings-by-separator](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
+| [3110-score-of-a-string](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
