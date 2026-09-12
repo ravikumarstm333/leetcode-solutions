@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1925-count-square-sum-triples](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3894-traffic-signal-color](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Heap (Priority Queue)
