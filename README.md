@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1995-count-special-quadruplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2057-smallest-index-with-equal-value](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1995-count-special-quadruplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1995-count-special-quadruplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Heap (Priority Queue)
 |  |
