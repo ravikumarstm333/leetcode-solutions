@@ -1,7 +1,7 @@
 class Solution {
 public:
     int countGoodTriplets(vector<int>& arr, int a, int b, int c) {
-        // TC O(n)
+        // TC O(n^3)
         // SC O(1)
         int res=0;
         for(int i=0;i<arr.size();i++){
