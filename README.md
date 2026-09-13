@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1995-count-special-quadruplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2057-smallest-index-with-equal-value](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Simulation
 |  |
