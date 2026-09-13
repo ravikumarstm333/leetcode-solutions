@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2129-capitalize-the-title](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1534-count-good-triplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1995-count-special-quadruplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2057-smallest-index-with-equal-value](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Simulation
 |  |
