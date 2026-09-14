@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0705-design-hashset) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
