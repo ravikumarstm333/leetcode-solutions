@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0189-rotate-array) |
