@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0169-majority-element) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Sorting
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search Tree
 |  |
