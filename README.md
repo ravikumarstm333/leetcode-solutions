@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0202-happy-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0169-majority-element) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
