@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1534-count-good-triplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1995-count-special-quadruplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2057-smallest-index-with-equal-value](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Greedy
 |  |
 | ------- |
