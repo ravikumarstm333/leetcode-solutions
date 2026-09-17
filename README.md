@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
