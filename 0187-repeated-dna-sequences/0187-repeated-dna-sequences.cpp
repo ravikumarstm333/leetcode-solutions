@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<string> findRepeatedDnaSequences(string s) {
-        /// TC O(n^2)
-        /// SC O(n/10)
+        /// TC O(n*10) -> o(n)
+        /// SC O(n)
         unordered_map<string ,int> mp;
         int n=s.length();
         int l=0;
