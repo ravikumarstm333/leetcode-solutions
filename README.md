@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1995-count-special-quadruplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2057-smallest-index-with-equal-value](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
