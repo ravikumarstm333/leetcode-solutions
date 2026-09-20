@@ -7,51 +7,21 @@ public:
         string res="";
         while(ra>=0 && rb>=0){
             int bit=(a[ra]-'0')+(b[rb]-'0')+carry;
-            if(bit==0){
-                res+='0';
-                carry=0;
-            }else if(bit==1){
-                res+='1';
-                carry=0;
-            }
-            else if(bit==2){
-                res+='0';
-                carry=1;
-            }else if(bit==3){
-                res+='1';
-                carry=1;
-            }
+            res+=bit%2+'0';
+            carry=bit/2;
             ra--;
             rb--;
         }
         while(ra>=0){
             int bit=carry+(a[ra]-'0');
-            if(bit==0){
-                res+='0';
-                carry=0;
-            }else if(bit==1){
-                res+='1';
-                carry=0;
-            }
-            else if(bit==2){
-                res+='0';
-                carry=1;
-            }
+            res+=bit%2+'0';
+            carry=bit/2;
             ra--;
         }
            while(rb>=0){
             int bit=carry+(b[rb]-'0');
-            if(bit==0){
-                res+='0';
-                carry=0;
-            }else if(bit==1){
-                res+='1';
-                carry=0;
-            }
-            else if(bit==2){
-                res+='0';
-                carry=1;
-            }
+            res+=bit%2+'0';
+            carry=bit/2;
             rb--;
         }
         if(carry==1) res+='1';
