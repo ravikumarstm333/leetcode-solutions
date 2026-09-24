@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3894-traffic-signal-color](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3894-traffic-signal-color) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Primality Test
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1534-count-good-triplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Union-Find
 |  |
 | ------- |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -482,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
