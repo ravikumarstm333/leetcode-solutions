@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0572-subtree-of-another-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
