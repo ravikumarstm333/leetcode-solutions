@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Union-Find
@@ -496,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
