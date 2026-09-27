@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2788-split-strings-by-separator](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3903-smallest-stable-index-i](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Linked List
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
