@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0771-jewels-and-stones](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -506,4 +508,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
