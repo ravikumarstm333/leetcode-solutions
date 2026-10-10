@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2788-split-strings-by-separator](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
@@ -430,10 +431,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Greedy
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/ravikumarstm333/leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Number Theory
 |  |
